@@ -1,0 +1,10 @@
+.favourites {
+  min-height: 100vh;
+  color: white;
+  padding-top: 80px;
+}
+
+.favourites__heading {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
